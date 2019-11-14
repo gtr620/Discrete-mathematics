@@ -6,7 +6,7 @@
   非>合取=析取（在先优先）>单条件>双条件
   注：对栈的操作函数存放在Stack.h中,以下为优先级表
   
-  <img src="https://github.com/CZT0/-/blob/master/images/%E8%BF%90%E7%AE%97%E7%AC%A6.jpg" width="200" height="200" alt="优先级表"/>
+  <img src="https://github.com/CZT0/Discrete-mathematics/blob/master/images/c6eb5bc1b3aa91e40936b30b07a8ec16.jpg" width="200" height="200" alt="优先级表"/>
  
 真值表分布规律的计算
    真值表列数与行数对应规律：行数=2^列数（命题变元个数），如图所示第一个命题变元A上半部分为真，下半部分为假。第二个变元四分之一为真，四分之一为假，依次轮换。第三个变元八分之一，直到行数分之一，即真值表最右面一行1，0轮换交替。
